@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ECE 387 App</string>
+    <string name="ece_387_android_app">ECE 387 Android App</string>
+    <string name="tap_me">Tap Me</string>
+    <string name="miami">miami</string>
+</resources>
